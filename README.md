@@ -17,8 +17,9 @@ Using the slicing concept rotate the list
 ### Step 5: 
 ### Step 6: 
 ## Program:
-# Developed by:Rudesh kanna R
-# Register no:24900303
+ Developed by:RUDESH KANNA R
+ Register no:24900303
+```
 def circulate():
     global lst,n
     n = n % len(lst)
@@ -26,8 +27,9 @@ def circulate():
     print(f"After circulating the values are: {rotated_list}")
 lst=list(eval(input()))
 n = int(input())
-## Output:
-![image](https://github.com/user-attachments/assets/7cd02a39-71d4-4d17-9359-31a42233fdfe)
+```
+### Output:
+![image](https://github.com/user-attachments/assets/9b9ed95b-bb1f-44d9-9cf8-bf94e346d523)
 
 ## Result:
 The output for circulate the values of n variables is successfull.
